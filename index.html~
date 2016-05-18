@@ -11,6 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+        <link rel='shortcut icon' href='favicon.ico' type='image/x-icon'/ >
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
@@ -48,7 +49,7 @@
 							<ul>
 								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref">
                                     <span class="icon fa-home">Home</span></a></li>
-								<li><a href="#projects" id="portfolio-link" class="skel-layers-ignoreHref">
+								<li><a href="#projects" id="projects-link" class="skel-layers-ignoreHref">
                                     <span class="icon fa-th">Projects</span></a></li>
 								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref">
                                     <span class="icon fa-user">About Me</span></a></li>
@@ -92,7 +93,9 @@
 							</header>
 
 							<footer>
-								<a href="#projects" class="button scrolly">Find Out More</a>
+								<li>
+								<a href="#projects" class="button scrolly">Find Out More <br> <span class="icon fa-angle-down">
+                                            </span> </a>
 							</footer>
 
 						</div>
@@ -161,7 +164,7 @@
 							<img src="https://dl.dropboxusercontent.com/s/x7k61qcnso31v6y/P8.jpg?dl=0" alt="" 
                                 witdth = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
 
-							<p>Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
+							<p align = "left">Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
                                 Engineering Intern at Harris Corporation. As a May 2016 graduate of Penn State University,
                                 I hold dual degrees in Electrical Engineering and Computer Engineering. For more 
                                 information about my technical experience, check out my 
