@@ -127,7 +127,7 @@
                             <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" align = "left"
                                 width = "50%" style="PADDING-RIGHT: 25px" style="PADDING-BOTTOM: 25px"/>
 
-							<p>For my honors thesis at Penn State, I worked with Professor Narayanan to develop a program 
+							<p>For my honors thesis at Penn State, I worked with Professor Ram Narayanan to develop a program 
                                 in Matlab that simulates target location of a multiple-transmitter, multiple-receiver ad hoc
                                 noise radar network. </p>
 
@@ -151,6 +151,16 @@
 							<header>
 								<h2>The Mayfly Project</h2>
 							</header>
+
+							<img src="https://dl.dropboxusercontent.com/s/jh57dhvp9ydpqen/MayflyBoard.png?dl=0" alt="" 
+                                width = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+                            <p>For my REU at Clemson University, I was working with Professor Jacob Sorber on the
+                            hardware team for a self-powered, fault-tolerant wireless sensor module to monitor
+                            leaf wetness in greenhouses. My responsibilities were primarily in design of a power board layout
+                            for an environment of inconsistent (solar) power for a module that includes a microcontroller,
+                            radio, and leaf wetness sensor. </p>
+
+                            <p> See the final project poster <a href = "MayflyHardwarePoster.pdf"> here. </a></p>
 
 						</div>
 					</section>
