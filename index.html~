@@ -1,0 +1,215 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Diana Zhang</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<span class="image avatar80"><img src="https://dl.dropboxusercontent.com/s/f0fou4e1k6vtm6d/      
+                                avatar.png?dl=0" alt="" /></span>
+							<h1 id="title">Diana Zhang</h1>
+							<p>Graduate Student<br>in Computer Systems</p>
+                            <p>Carnegie Mellon University</p>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<!--
+
+								Prologue's nav expects links in one of two formats:
+
+								1. Hash link (scrolls to a different section within the page)
+
+								   <li><a href="#foobar" id="foobar-link" class="icon fa-whatever-icon-you-want skel-layers-ignoreHref"><span class="label">Foobar</span></a></li>
+
+								2. Standard link (sends the user to another page/site)
+
+								   <li><a href="http://foobar.tld" id="foobar-link" class="icon fa-whatever-icon-you-want"><span class="label">Foobar</span></a></li>
+
+							-->
+							<ul>
+								<li><a href="#top" id="top-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-home">Home</span></a></li>
+								<li><a href="#projects" id="portfolio-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-th">Projects</span></a></li>
+								<li><a href="#about" id="about-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-user">About Me</span></a></li>
+								<li><a href="#contact" id="contact-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-envelope">Contact</span></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							<li><a href="https://twitter.com/zhangnette" class="icon fa-twitter">
+                                <span class="label">Twitter</span></a></li>
+							<li><a href="https://github.com/d95zhang" class="icon fa-github">
+                                <span class="label">Github</span></a></li>
+                            <li><a href="https://www.linkedin.com/in/diana-zhang-32b23068" class="icon fa-linkedin">
+                                <span class="label">LinkedIn</span></a></li>
+							<li><a href="mailto:diana@dianazhang.net" class="icon fa-envelope">
+                                <span class="label">Email</span></a></li>
+						</ul>
+
+				</div>
+
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Intro -->
+					<section id="top" class="one dark cover">
+						<div class="container">
+
+							<header>
+								<h2 class="alt">Welcome! I'm <strong>Diana Zhang</strong>,<br>
+                                a graduate student at <a href="http://www.ece.cmu.edu/">CMU ECE</a>.</h2>
+								<p>My areas of specialization are embedded systems, wireless sensor networks,<br>
+                                asking questions, and enacting change a bit (or a byte) at a time.</p>
+							</header>
+
+							<footer>
+								<a href="#projects" class="button scrolly">Find Out More</a>
+							</footer>
+
+						</div>
+					</section>
+
+				<!-- Portfolio -->
+					<section id="projects" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Projects</h2>
+							</header>
+
+							<div class="row">
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="projects.html#VehicularIoT" class="image fit">
+                                        <img src="https://dl.dropboxusercontent.com/s/acq4bq9bpv6w75b/luxury-black-car.jpg?dl=0" 
+                                            alt="" /></a>
+										<header>
+											<h3>Vehicular IoT</h3>
+										</header>
+									</article>
+									<article class="item">
+										<a href="projects.html#ElecSystems" class="image fit">
+                                        <img src="https://dl.dropboxusercontent.com/s/0jbxux5ge0t4c4t/computer-electronics.jpg?dl=0" 
+                                            alt="" /></a>
+										<header>
+											<h3>Electronic Systems</h3>
+										</header>
+									</article>
+								</div>
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="projects.html#Radar" class="image fit">
+                                        <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" /></a>
+										<header>
+											<h3>Noise Radar Target Location</h3>
+										</header>
+									</article>
+								</div>
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="projects.html#Mayfly" class="image fit">
+                                        <img src="https://dl.dropboxusercontent.com/s/jh57dhvp9ydpqen/MayflyBoard.png?dl=0" alt="" />
+                                        </a>
+										<header>
+											<h3>The Mayfly Project</h3>
+										</header>
+									</article>
+								</div>
+							</div>
+
+						</div>
+					</section>
+
+				<!-- About Me -->
+					<section id="about" class="three">
+						<div class="container">
+
+							<header>
+								<h2>About Me</h2>
+							</header>
+
+                            <!---a class="image featured" for full-sized image--->
+							<img src="https://dl.dropboxusercontent.com/s/x7k61qcnso31v6y/P8.jpg?dl=0" alt="" 
+                                witdth = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+
+							<p>Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
+                                Engineering Intern at Harris Corporation. As a May 2016 graduate of Penn State University,
+                                I hold dual degrees in Electrical Engineering and Computer Engineering. For more 
+                                information about my technical experience, check out my 
+                                <a href="resume.pdf"> resume. </a></p>
+
+                            <p>In addition my technical work, I value teaching and outreach. I am experienced as
+                                a tutor, lab assistant, and teaching intern for classes including Digital Design, 
+                                Circuits & Devices, Introductory C++ Programming, and Differential Equations. I also
+                                served as President for Penn State's <a href = "http://awc.cse.psu.edu/">Association of 
+                                Women in Computing</a>, was a board member for <a href="http://codepsu.com/">CodePSU</a>, 
+                                and engaged with local girl troops groups on STEM projects. </p>
+
+						</div>
+					</section>
+
+				<!-- Contact -->
+					<section id="contact" class="four">
+						<div class="container">
+
+							<header>
+								<h2>Contact</h2>
+							</header>
+
+							<p>Email: diana@dianazhang.net
+
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+
+				<!-- Copyright -->
+					<ul class="copyright">
+						<li>&copy; Diana Zhang. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollzer.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
