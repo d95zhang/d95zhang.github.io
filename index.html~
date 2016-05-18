@@ -93,9 +93,8 @@
 							</header>
 
 							<footer>
-								<li>
-								<a href="#projects" class="button scrolly">Find Out More <br> <span class="icon fa-angle-down">
-                                            </span> </a>
+								<a href="#projects" class="button scrolly">Find Out More
+                                    <br> <span class="icon fa-angle-down"></span></a>
 							</footer>
 
 						</div>
@@ -162,7 +161,7 @@
 
                             <!---a class="image featured" for full-sized image--->
 							<img src="https://dl.dropboxusercontent.com/s/x7k61qcnso31v6y/P8.jpg?dl=0" alt="" 
-                                witdth = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+                                class = "image left"/>
 
 							<p align = "left">Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
                                 Engineering Intern at Harris Corporation. As a May 2016 graduate of Penn State University,
@@ -170,7 +169,7 @@
                                 information about my technical experience, check out my 
                                 <a href="resume.pdf"> resume. </a></p>
 
-                            <p>In addition my technical work, I value teaching and outreach. I am experienced as
+                            <p align = "left">In addition my technical work, I value teaching and outreach. I am experienced as
                                 a tutor, lab assistant, and teaching intern for classes including Digital Design, 
                                 Circuits & Devices, Introductory C++ Programming, and Differential Equations. I also
                                 served as President for Penn State's <a href = "http://awc.cse.psu.edu/">Association of 

@@ -93,10 +93,10 @@
 
                             <!---a class="image featured" for full-sized image--->
 							<img src="https://dl.dropboxusercontent.com/s/acq4bq9bpv6w75b/luxury-black-car.jpg?dl=0" alt="" 
-                                width = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+                                width="50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
 
-							<p>For my first research project at Carnegie Mellon, I will be working with Professor Swarun Kumar
-                                on sensors for vehicles to determine different targets. Updates to come.</p>
+							<p align="left">For my first research project at Carnegie Mellon, I will be working with 
+                            Professor Swarun Kumar on sensors for vehicles to determine different targets. Updates to come.</p>
 
 						</div>
 					</section>
@@ -111,8 +111,9 @@
 							<img class="image featured" src="https://dl.dropboxusercontent.com/s/0jbxux5ge0t4c4t/computer-
                             electronics.jpg?dl=0" alt=""/>
 
-                            For my project as an intern at Harris Corporation, I'm working on Embedded Software Engineering for 
-                            Communication Systems in the Electronic Systems Segment. Check back later in the summer for further details.
+                            <p align="left"> For my project as an intern at Harris Corporation, I'm working on Embedded Software 
+                            Engineering for Communication Systems in the Electronic Systems Segment. Check back later in the 
+                            summer for further details. </p>
 
 						</div>
 					</section>
@@ -128,16 +129,16 @@
                             <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" align = "left"
                                 width = "50%" style="PADDING-RIGHT: 25px" style="PADDING-BOTTOM: 25px"/>
 
-							<p>For my honors thesis at Penn State, I worked with Professor Ram Narayanan to develop a program 
-                                in Matlab that simulates target location of a multiple-transmitter, multiple-receiver ad hoc
+							<p align="left">For my honors thesis at Penn State, I worked with Professor Ram Narayanan to develop a 
+                                program in Matlab that simulates target location of a multiple-transmitter, multiple-receiver ad hoc
                                 noise radar network. </p>
 
-                            <p>Abstract: This project combines ideas extant in ad hoc radar networking and noise radar to create a 
-                                target location system that can be easily set up and is difficult to detect. This was simulated in 
-                                Matlab by placing a target, m transmitters, and n receivers at randomly generated X-Y coordinates and 
-                                comparing the transmitted and received signals for the three receivers to determine target location. 
-                                This successfully located a target, and despite limitations, shows a mathematically feasible way to 
-                                create a discreet, quickly arranged radar locating system. </p>
+                            <p align="left">Abstract: This project combines ideas extant in ad hoc radar networking and noise radar 
+                                to  create a target location system that can be easily set up and is difficult to detect. This was 
+                                simulated in Matlab by placing a target, <i>m</i> transmitters, and <i>n</i> receivers at randomly 
+                                generated X-Y coordinates and comparing the transmitted and received signals for the three receivers to 
+                                determine target location. This successfully located a target, and despite limitations, shows a 
+                                mathematically feasible way to create a discreet, quickly arranged radar locating system. </p>
 
                             <p>See also: <a href ="MidPoster.pdf"> midterm poster</a>, 
                                 <a href ="https://honors.libraries.psu.edu/catalog/28761">full thesis.</a> </p>
@@ -155,7 +156,7 @@
 
 							<img src="https://dl.dropboxusercontent.com/s/jh57dhvp9ydpqen/MayflyBoard.png?dl=0" alt="" 
                                 width = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
-                            <p>For my REU at Clemson University, I was working with Professor Jacob Sorber on the
+                            <p align="left">For my REU at Clemson University, I was working with Professor Jacob Sorber on the
                             hardware team for a self-powered, fault-tolerant wireless sensor module to monitor
                             leaf wetness in greenhouses. My responsibilities were primarily in design of a power board layout
                             for an environment of inconsistent (solar) power for a module that includes a microcontroller,
