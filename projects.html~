@@ -93,7 +93,7 @@
 
                             <!---a class="image featured" for full-sized image--->
 							<img src="https://dl.dropboxusercontent.com/s/acq4bq9bpv6w75b/luxury-black-car.jpg?dl=0" alt="" 
-                                width="50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+                                class="image right"/>
 
 							<p align="left">For my first research project at Carnegie Mellon, I will be working with 
                             Professor Swarun Kumar on sensors for vehicles to determine different targets. Updates to come.</p>
@@ -126,8 +126,7 @@
 								<h2>Noise Radar Target Location</h2>
 							</header>
 
-                            <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" align = "left"
-                                width = "50%" style="PADDING-RIGHT: 25px" style="PADDING-BOTTOM: 25px"/>
+                            <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" class = "image left"/>
 
 							<p align="left">For my honors thesis at Penn State, I worked with Professor Ram Narayanan to develop a 
                                 program in Matlab that simulates target location of a multiple-transmitter, multiple-receiver ad hoc
@@ -155,7 +154,7 @@
 							</header>
 
 							<img src="https://dl.dropboxusercontent.com/s/jh57dhvp9ydpqen/MayflyBoard.png?dl=0" alt="" 
-                                width = "50%" align="right" style="PADDING-LEFT: 25px" style="PADDING-BOTTOM: 25px"/>
+                                class = "image right"/>
                             <p align="left">For my REU at Clemson University, I was working with Professor Jacob Sorber on the
                             hardware team for a self-powered, fault-tolerant wireless sensor module to monitor
                             leaf wetness in greenhouses. My responsibilities were primarily in design of a power board layout

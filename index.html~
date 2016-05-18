@@ -93,8 +93,8 @@
 							</header>
 
 							<footer>
-								<a href="#projects" class="button scrolly">Find Out More
-                                    <br> <span class="icon fa-angle-down"></span></a>
+								<a href="#projects" class="button scrolly"><font size="4">Find Out More</font>
+                                    <font size="4">  <span class="icon fa-angle-down"></span></font></a>
 							</footer>
 
 						</div>
@@ -161,9 +161,9 @@
 
                             <!---a class="image featured" for full-sized image--->
 							<img src="https://dl.dropboxusercontent.com/s/x7k61qcnso31v6y/P8.jpg?dl=0" alt="" 
-                                class = "image left"/>
+                                class = "image right"/>
 
-							<p align = "left">Currently, I'm located in Melbourne, Fl where I am working as an Embedded Software 
+							<p align = "left">Currently, I'm located in Melbourne, Florida where I am working as an Embedded Software 
                                 Engineering Intern at Harris Corporation. As a May 2016 graduate of Penn State University,
                                 I hold dual degrees in Electrical Engineering and Computer Engineering. For more 
                                 information about my technical experience, check out my 
