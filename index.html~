@@ -24,8 +24,7 @@
 
 					<!-- Logo -->
 						<div id="logo">
-							<span class="image avatar80"><img src="https://dl.dropboxusercontent.com/s/f0fou4e1k6vtm6d/      
-                                avatar.png?dl=0" alt="" /></span>
+							<span class="image avatar80"><img src="images/avatar.png" alt="" /></span>
 							<h1 id="title">Diana Zhang</h1>
 							<p>Graduate Student<br>in Computer Systems</p>
                             <p>Carnegie Mellon University</p>
@@ -112,15 +111,15 @@
 								<div class="4u 12u$(mobile)">
 									<article class="item">
 										<a href="projects.html#VehicularIoT" class="image fit">
-                                        <img src="https://dl.dropboxusercontent.com/s/acq4bq9bpv6w75b/luxury-black-car.jpg?dl=0" 
+                                        <img src="images/luxury-black-car.jpg" 
                                             alt="" /></a>
 										<header>
-											<h3>Vehicular IoT</h3>
+											<h3>Vehicular Sensing</h3>
 										</header>
 									</article>
 									<article class="item">
 										<a href="projects.html#ElecSystems" class="image fit">
-                                        <img src="https://dl.dropboxusercontent.com/s/0jbxux5ge0t4c4t/computer-electronics.jpg?dl=0" 
+                                        <img src="images/computer-electronics.jpg" 
                                             alt="" /></a>
 										<header>
 											<h3>Electronic Systems</h3>
@@ -130,7 +129,7 @@
 								<div class="4u 12u$(mobile)">
 									<article class="item">
 										<a href="projects.html#Radar" class="image fit">
-                                        <img src="https://dl.dropboxusercontent.com/s/670x7xo3cf5ruzh/MIMO.PNG?dl=0" alt="" /></a>
+                                        <img src="images/MIMO.PNG" alt="" /></a>
 										<header>
 											<h3>Noise Radar Target Location</h3>
 										</header>
@@ -139,7 +138,7 @@
 								<div class="4u 12u$(mobile)">
 									<article class="item">
 										<a href="projects.html#Mayfly" class="image fit">
-                                        <img src="https://dl.dropboxusercontent.com/s/jh57dhvp9ydpqen/MayflyBoard.png?dl=0" alt="" />
+                                        <img src="images/MayflyBoard.png" alt="" />
                                         </a>
 										<header>
 											<h3>The Mayfly Project</h3>
@@ -160,7 +159,7 @@
 							</header>
 
                             <!---a class="image featured" for full-sized image--->
-							<img src="https://dl.dropboxusercontent.com/s/x7k61qcnso31v6y/P8.jpg?dl=0" alt="" 
+							<img src="images/P8.jpg?dl=0" alt="" 
                                 class = "image right"/>
 
 							<p align = "left">Currently, I'm located in Melbourne, Florida where I am working as an Embedded Software 
