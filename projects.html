@@ -46,14 +46,12 @@
 
 							-->
 							<ul>
-								<li><a href="#VehicularIoT" id="VehicularIoT-link" class="skel-layers-ignoreHref">
-                                    <span class="icon fa-automobile">Vehicular Sensing</span></a></li>
-								<li><a href="#ChOIR" id="ChOIR-link" class="skel-layers-ignoreHref">
-                                    <span class="icon fa-feed">LoRa</span></a></li>
-								<li><a href="#ElecSystems" id="ElecSystems-link" class="skel-layers-ignoreHref">
-                                    <span class="icon fa-bolt">Electronic Systems</span></a></li>
-								<li><a href="#PastWork" id="PastWork-link" class="skel-layers-ignoreHref">
-                                    <span class="icon fa-bug">Past Work</span></a></li>
+								<li><a href="#WirelessSensing" id="WirelessSensing-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-feed">Wireless Sensing</span></a></li>
+								<li><a href="#EmergingLandscapes" id="EmergingLandscapes-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-building-o">Emerging Landscapes</span></a></li>
+								<li><a href="#SensorFusion" id="SensorFusion-link" class="skel-layers-ignoreHref">
+                                    <span class="icon fa-eye">Sensor Fusion</span></a></li>
 								<li><a href="index.html#" id="contact-link" class="skel-layers-ignoreHref">
                                     <span class="icon fa-arrow-left">Back to Home</span></a></li>
 							</ul>
@@ -83,107 +81,70 @@
 			<div id="main">
 
 				<!-- VehicularIoT -->
-                <section id="VehicularIoT" class="three">
+                <section id="WirelessSensing" class="three">
 						<div class="container">
 
 							<header>
-								<h2>Vehicular Sensing</h2>
+								<h2>Wireless Sensing & Programmability</h2>
 							</header>
 
                             <!---a class="image featured" for full-sized image--->
-							<img src="images/luxury-black-car.jpg" alt="" 
-                                class="image left"/>
+							<img src="images/Drone_Diagram.png" alt=""
+                                class="image left"  height="50%" width="50%"/>
 
-							<p align="left">Having spoken to some of the drivers of Uber's autonomous vehicle fleet in Pittsburgh,
-                            we found that one of the largest issues they face are the inability of the vehicles to see around corners.
-                            Indeed, traditional LIDAR sensing methods utilized by this vehicle can only see what eyes could.</p>
+							<p align="left">For my project <a href = https://www.witechlab.com/intuwition.html/>IntuWition</a>,
+								I led an effort to bring detection of types of materials
+								&mdash; wood, metal, and human &mdash; to commodity WiFi cards. </p>
 
-                            <p align="left">We propose to use use WiFi signals, which can propogate through walls and around corners, to 
-                            alleviate this issue. Futhermore, we are analyzing the possibility of using WiFi to identify the materials of 
-                            obstructions.</p>
+              <p align="left">By using a polarimetric approach, we can distinguish materials
+							 despite how a near dielectric object might reflect a signal just as strongly
+						 	 as a farther metallic object. Further, commodity WiFi is natively aboard drones
+						   and many other autonomous vehicles, and can sense around corners and through obstructions.</p>
+
+							 <p align="left">Our ongoing work in this space explores ways for a system to respond to
+								 changes in the wireless environment after the sensing phase. Details to come!</p>
 
 						</div>
 					</section>
 				<!-- LoRa -->
-                <section id="ChOIR" class="two">
+                <section id="EmergingLandscapes" class="two">
 						<div class="container">
 
 							<header>
-								<h2>Lora Scaling</h2>
+								<h2>Emerging Wireless Landscapes</h2>
 							</header>
 
                             <!---a class="image featured" for full-sized image--->
-							<img src="images/LoRaUmbrellas.png?dl=0" alt="" 
+							<img src="images/LoRaUmbrellas.png?dl=0" alt=""
                                 class="image right"/>
 
-							<p align="left">LoRas are low-power radios that can transmit at low data rates across large distances. We see 
-                            LPWAN devices as being the enablers of future IoT technology -- the medium through which developing "smart" 
-                            technologies can send sensed data to the cloud. We consider two questions regarding the scaling of LoRa: 
-                            (1) How to handle collisions with scale, and (2) What information we would be able to gather from collaborative 
-                            LoRa nodes. This project was presented at <a href = "http://www.witechlab.com/LoRa/ChOIR.html"> Sigcomm 2017. </a></p>
+							<p align="left">LoRas are low-power radios that can transmit at low data rates across large distances. We see
+                            LPWAN devices as being the enablers of future IoT technology -- the medium through which developing "smart"
+                            technologies can send sensed data to the cloud. We consider two questions regarding the scaling of LoRa:
+                            (1) How to handle collisions with scale, and (2) What information we would be able to gather from collaborative
+                            LoRa nodes. This project was presented at <a href = "https://www.witechlab.com/choir.html"> Sigcomm 2017,</a>
+														and kick-started our lab's <a href="https://www.witechlab.com/lpwan.html">LPWAN initiative</a>.</p>
+
+							<p align="left">My ongoing work in this space explores opportunities associated with the emerging ubiquity
+							low-earth-orbit satellites. Details to come!</p>
 
 						</div>
 					</section>
 				<!-- Electronic Systems -->
-					<section id="ElecSystems" class="three">
+					<section id="SensorFusion" class="three">
 						<div class="container">
 
 							<header>
-								<h2>Software Engineering for Electronic Systems</h2>
+								<h2>Integrating Wireless Sensing with Current Dominant Sensing Paradigms</h2>
 							</header>
 
-							<img class="image featured" src="images/computer-electronics.jpg?dl=0" alt=""/>
+                  <p align="left"> Currently, the dominant sensing paradigms in practice
+										are vision and LIDAR-based systems. For wireless sensing to truly be adopted,
+									  it must complement these systems well and I am currently exploring ways to fuse
+									  these paradigms effectively.</p>
 
-                            <p align="left"> For my project as an intern at Harris Corporation, I was working on Embedded Software 
-                            Engineering for Communication Systems in the Electronic Systems Segment. Projects included a git guide, a C++ 
-                            programming practices document, and a people counter implemented in Python on a Raspberry Pi. </p>
-
-						</div>
-					</section>
-
-				<!-- Past Work -->
-					<section id="PastWork" class="two">
-						<div class="container">
-
-							<header>
-                                <h2>Past Work</h2>
-								<h1>Noise Radar Target Location</h1>
-							</header>
-
-                            <img src="images/MIMO.PNG?dl=0" alt="" class = "image left"/>
-
-							<p align="left">For my honors thesis at Penn State, I worked with Professor Ram Narayanan to develop a 
-                                program in Matlab that simulates target location of a multiple-transmitter, multiple-receiver ad hoc
-                                noise radar network. </p>
-
-                            <p align="left">Abstract: This project combines ideas extant in ad hoc radar networking and noise radar 
-                                to  create a target location system that can be easily set up and is difficult to detect. This was 
-                                simulated in Matlab by placing a target, <i>m</i> transmitters, and <i>n</i> receivers at randomly 
-                                generated X-Y coordinates and comparing the transmitted and received signals for the three receivers to 
-                                determine target location. This successfully located a target, and despite limitations, shows a 
-                                mathematically feasible way to create a discreet, quickly arranged radar locating system. </p>
-
-                            <p>See also: <a href ="MidPoster.pdf"> midterm poster</a>, 
-                                <a href ="https://honors.libraries.psu.edu/catalog/28761">full thesis.</a> </p>
-
-						</div>
-
-                <!--- The Mayfly Project --->
-						<div class="container">
-
-							<header>
-								<h1>The Mayfly Project</h1>
-							</header>
-
-							<img src="images/MayflyBoard.png?dl=0" alt="" 
-                                class = "image right"/>
-                            <p align="left">For my REU at Clemson University, I was working with Professor Jacob Sorber on the
-                            hardware team for a self-powered, fault-tolerant wireless sensor module to monitor
-                            leaf wetness in greenhouses. My responsibilities were primarily in design of a power board layout
-                            for an environment of inconsistent (solar) power for a module that includes a microcontroller,
-                            radio, and leaf wetness sensor. </p>
-
-                            <p> See the final project poster <a href = "MayflyHardwarePoster.pdf"> here. </a></p>
+									<p align="left">Next, I am also interested in exploring the policy and spectrum implications
+										of using what are typically communication channels for sensing.</p>
 
 						</div>
 					</section>
